@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/ee/8a/19/ee8a19e8766c94d4bf92c3562b79aa1e.jpg); 
+    background-size: cover; 
+    background-attachment: fixed; 
+}
+.form-container {
+    max-width: 400px;
+    margin: 0 auto; 
+    text-align: center; 
+}
+.form-container-dos {
+    max-width: 400px;
+    margin: 0 auto; 
+    text-align: center; 
+}
